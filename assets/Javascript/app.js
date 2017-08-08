@@ -1,6 +1,6 @@
 $(function() {
   Buttons(topics, "searchButton", "#celeBut")
-   console.log("page loaded")
+   console.log("I'm Working!")
 })
   
 var topics = ["Jay Baruchel", "Gal Gadot", "Carrie Fisher", "Mark Hamill"];
